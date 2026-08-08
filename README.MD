@@ -130,15 +130,6 @@ pip install pandas matplotlib seaborn
 
 ---
 
-## 📈 Sample Output
-
-![GPU Architecture Report](gpu_architecture_report.png)
-
-* **SOL Utilisation** – ratio of observed compute/memory throughput to theoretical peak.  
-* **Warp‑stall distribution** – categorical bar chart of stall reasons, sorted by impact.  
-* **Occupancy limiters** – pie chart showing which resource is the bottleneck.  
-* **Diagnosis box** – concise, actionable optimisation tips.
-
 ## 📂 Repository Layout
 
 ```
