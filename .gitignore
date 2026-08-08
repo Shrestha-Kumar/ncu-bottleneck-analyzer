@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+.ipynb_checkpoints
+.ipynb
+=======
+# Byte‑compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment / Conda
+venv/
+env/
+.venv/
+conda-env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Runtime data files
+*.csv
+*.parquet
+*.h5
+
+# Generated plots
+*.png
+*.pdf
+*.svg
+
+# Log files
+*.log
+
+# OS‑specific
+.DS_Store
+Thumbs.db
+
+# Build artefacts (if C/C++ extensions are added)
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+>>>>>>> ccc83f5 (Add polished README and .gitignore for GPU profiler project)
